@@ -1,7 +1,2 @@
-mysql/mysql/
-mysql/jardin_actuel
-mysql/#innodb_temp
-mysql/performance_schema
-mysql/#innodb_redo
-mysql/sys
-mysql
+mysql/**/*
+.DS_Store
